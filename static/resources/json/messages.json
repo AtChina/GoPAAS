@@ -1,0 +1,8 @@
+[
+    {title:'New user registered.',messageClass:'label label-success',iconClass:'icon-plus',timeText:'Just now',action:'#'},
+    {title:'Server #12 overloaded.',messageClass:'label label-important',iconClass:'icon-bolt',timeText:'15 mins',action:'#'},
+    {title:'Server #2 not respoding.',messageClass:'label label-warning',iconClass:'icon-bell',timeText:'22 mins',action:'#'},
+    {title:'Application error.',messageClass:'label label-info',iconClass:'icon-bullhorn',timeText:'40 mins',action:'#'},
+    {title:'Database overloaded 68%.',messageClass:'label label-important',iconClass:'icon-bolt',timeText:'Database overloaded 68%.',action:'#'},
+    {title:'2 user IP blocked.',messageClass:'label label-important',iconClass:'icon-bolt',timeText:'5 hrs',action:'#'}
+]

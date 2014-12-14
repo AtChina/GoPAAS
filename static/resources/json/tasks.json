@@ -1,0 +1,8 @@
+[
+   {title:'New release v1.2',percent:'30%',progressClass:'progress progress-success',action:'#'}, 
+   {title:'Application deployment',percent:'65%',progressClass:'progress progress-danger progress-striped active',action:'#'},
+   {title:'Mobile app release',percent:'98%',progressClass:'progress progress-success',action:'#'},
+   {title:'Database migration',percent:'10%',progressClass:'progress progress-warning progress-striped',action:'#'},
+   {title:'Web server upgrade',percent:'58%',progressClass:'progress progress-info',action:'#'},
+   {title:'Mobile development',percent:'85%',progressClass:'progress progress-success',action:'#'}
+]

@@ -1,0 +1,8 @@
+[
+   {title:'帐户信息',iconClass:'icon-user',action:'#'},
+   {title:'日程管理',iconClass:'icon-calendar',action:'#'},
+   {title:'电子邮件(3)',iconClass:'icon-envelope',action:'#'},
+   {title:'我的任务',iconClass:'icon-tasks',action:'#'},
+   {title:'切换系统',iconClass:'icon-exchange',action:'#'},
+   {title:'注销登录',iconClass:'icon-off',action:'/'}
+]

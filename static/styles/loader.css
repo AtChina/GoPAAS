@@ -1,0 +1,15 @@
+/**
+ * Created by weichangying.
+ * User: Administrator
+ * Date: 2013/12/08
+ * Time: 17:00
+ *
+ * this file dyname css loader
+ */
+@import url("/static/resources/bootstrap/v2/css/bootstrap.css");
+@import url("/static/resources/bootstrap/v2/css/bootstrap-responsive.min.css");
+@import url("/static/resources/css/font-awesome.min.css");
+@import url("/static/resources/Buttons/css/buttons.css");
+@import url("/static/resources/css/style.css");
+@import url("/static/resources/css/style-responsive.css");
+@import url("/static/resources/css/default.css");
